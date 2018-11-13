@@ -1,6 +1,6 @@
 # Reconfigurable Pinball Machine
 
-This repository holds design files for a reconfigurable pinball machine.
+This is a research project for a reconfigurable pinball machine for senior design at Miami University.
 
 ## CADFiles
 
