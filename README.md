@@ -8,7 +8,7 @@ This is a research project for a reconfigurable pinball machine for senior desig
 - Scott Nicholson
 - Storm Nicholson
 
-#### Advisor:
+#### Adviser:
 Dr. Jamieson
 
 ## CADFiles
