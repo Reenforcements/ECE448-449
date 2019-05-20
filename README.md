@@ -1,5 +1,7 @@
 # Reconfigurable Pinball Machine
 
+[![Pinball machine](https://github.com/Reenforcements/ECE448-449/blob/master/Resources/PinballMachine.jpg?raw=true)](https://github.com/Reenforcements/ECE448-449/blob/master/Resources/PinballMachine.jpg?raw=true)
+
 This is a research project for a reconfigurable pinball machine for senior design at Miami University.
 
 #### Team Members:
